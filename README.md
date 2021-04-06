@@ -1,2 +1,2 @@
 # python-tutorial
-python learning
+This is my python exercises
